@@ -31,3 +31,4 @@ Notes on the applicability and provenance of files for each journal are as follo
 
 ### Genetics
 [Original Genetics latex template and style files from Eric Anderson](http://ib.berkeley.edu/labs/slatkin/eriq/latex/index.htm#genetics)
+Genetics LaTex template on Overleaf, formerly writeLaTex (https://www.overleaf.com/latex/templates/tagged/gsa#.VhvDbBNVhBc)
