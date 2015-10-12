@@ -30,5 +30,5 @@ Notes on the applicability and provenance of files for each journal are as follo
 - A modified template was made by Casey Bergman based on Gabriel Moreno-Hagelsieb's design and is structured to use an external bibtex file and Schneider's [Bioinformatics bibtex style file](http://schneider.ncifcrf.gov/ftp/bioinformatics.bst) 
 
 ### Genetics
-[Original Genetics latex template and style files from Eric Anderson](http://ib.berkeley.edu/labs/slatkin/eriq/latex/index.htm#genetics)
-[Genetics LaTex template on Overleaf, formerly writeLaTex](https://www.overleaf.com/latex/templates/tagged/gsa#.VhvDbBNVhBc)
+- [Original Genetics latex template and style files from Eric Anderson](http://ib.berkeley.edu/labs/slatkin/eriq/latex/index.htm#genetics)
+- [Genetics LaTex template on Overleaf, formerly writeLaTex](https://www.overleaf.com/latex/templates/tagged/gsa#.VhvDbBNVhBc)
